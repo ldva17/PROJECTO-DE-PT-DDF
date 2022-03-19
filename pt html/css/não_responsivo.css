@@ -1,0 +1,666 @@
+* {
+    margin: 0px;
+    font-family: Revamped;
+}
+
+body {
+    height: 100vh;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.a {
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+}
+
+.d1 {
+    width: 100%;
+    height: 28px;
+    background-color: #858080;
+    ;
+}
+
+.d2 {
+    width: 100%;
+    height: 90px;
+    background-color: #b7e2c6;
+    border-bottom: solid 0.5px;
+}
+
+.d3 {
+    width: 100%;
+    height: 40px;
+    background-color: #b7e2c6;
+}
+
+.d4 {
+    width: 100%;
+    height: 900px;
+    background-color: #b7e2c6;
+    margin-top: 90px;
+}
+
+.b {
+    width: 500px;
+    height: 967px;
+    background-color: #b7e2c6;
+    display: inline-block;
+}
+
+.m {
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    padding-left: 10px;
+    padding-top: 30px;
+    transition: all 3s;
+}
+
+.m:hover {
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    padding-left: 10px;
+    padding-top: 30px;
+    text-decoration: underline;
+}
+
+.h {
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    padding-left: 300px;
+}
+
+.s {
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    padding-left: 20px;
+}
+
+.c {
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    padding-left: 20px;
+}
+
+.su {
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    padding-left: 20px;
+}
+
+.a {
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    padding-left: 20px;
+}
+
+.an {
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    padding-left: 20px;
+}
+
+.f {
+    margin-top: 10px;
+}
+
+.ca {
+    font-size: 50px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+
+.la {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-left: 100px;
+    transition: all 1s;
+}
+
+.LAZ {
+    font-size: 30px;
+    padding-top: 20px;
+    padding-left: 140px;
+}
+
+.la:hover {
+    background-color: blue;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin-left: 80px;
+}
+
+.ic {
+    width: 150px;
+    padding-top: 50px;
+    transition: all 1s;
+}
+
+.ic:hover {
+    width: 200px;
+    padding-top: 60px;
+}
+
+.de {
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-left: 90px;
+    transition: all 1s;
+}
+
+.des {
+    font-size: 30px;
+    padding-top: 20px;
+    padding-left: 90px;
+}
+
+.de:hover {
+    background-color: green;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin-left: 60px;
+}
+
+.ib {
+    width: 100px;
+    padding-top: 50px;
+    transition: all 1s;
+}
+
+.ib:hover {
+    width: 150px;
+    padding-top: 50px;
+}
+
+.tr {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-left: 130px;
+    margin-top: 20px;
+    transition: all 1s;
+}
+
+.tra {
+    font-size: 30px;
+    padding-top: 20px;
+    padding-left: 110px;
+}
+
+.tr:hover {
+    background-color: red;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin-left: 110px;
+    margin-top: 20px;
+}
+
+.if {
+    width: 200px;
+    padding-top: 40px;
+    transition: all 1s;
+}
+
+.if:hover {
+    width: 250px;
+    padding-top: 60px;
+}
+
+.te {
+    background-color: #CBE8FF;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-left: 130px;
+    margin-top: 20px;
+    transition: all 1s;
+}
+
+.tec {
+    font-size: 30px;
+    padding-top: 20px;
+    padding-left: 110px;
+}
+
+.te:hover {
+    background-color: #CBE8FF;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+.it {
+    width: 150px;
+    padding-top: 20px;
+    transition: all 1s;
+}
+
+.it:hover {
+    width: 200px;
+    padding-top: 20px;
+}
+
+.li {
+    background-color: #FFFFFF;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-left: 130px;
+    margin-top: 20px;
+    transition: all 1s;
+}
+
+.liv {
+    font-size: 30px;
+    padding-top: 20px;
+    padding-left: 160px;
+}
+
+.li:hover {
+    background-color: #FFFFFF;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+.il {
+    width: 150px;
+    padding-top: 20px;
+    transition: all 1s;
+}
+
+.il:hover {
+    width: 200px;
+    padding-top: 20px;
+}
+
+.caa {
+    background-color: #F2C328;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-left: 100px;
+    margin-top: 90px;
+    transition: all 1s;
+}
+
+.cas {
+    font-size: 30px;
+    padding-top: 20px;
+    padding-left: 130px;
+}
+
+.caa:hover {
+    background-color: #F2C328;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin-left: 80px;
+    margin-top: 90px;
+}
+
+.icc {
+    width: 150px;
+    padding-top: 20px;
+    transition: all 1s;
+}
+
+.icc:hover {
+    width: 200px;
+    padding-top: 20px;
+}
+
+.ma {
+    background-color: #8B4513;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-left: 100px;
+    margin-top: 90px;
+    transition: all 1s;
+}
+
+.maxx {
+    font-size: 30px;
+    padding-top: 20px;
+    padding-left: 130px;
+}
+
+.ma:hover {
+    background-color: #8B4513;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin-left: 80px;
+    margin-top: 90px;
+}
+
+.im {
+    width: 150px;
+    padding-top: 10px;
+    transition: all 1s;
+}
+
+.im:hover {
+    width: 200px;
+    padding-top: 0px;
+}
+
+.se {
+    background-color: #E2D955;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-left: 130px;
+    margin-top: 90px;
+    transition: all 1s;
+}
+
+.ser {
+    font-size: 30px;
+    padding-top: 20px;
+    padding-left: 160px;
+}
+
+.se:hover {
+    background-color: #E2D955;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin-left: 110px;
+    margin-top: 90px;
+}
+
+.is {
+    width: 150px;
+    padding-top: 30px;
+    transition: all 1s;
+}
+
+.is:hover {
+    width: 200px;
+    padding-top: 30px;
+}
+
+.r {
+    background-color: #D8BFD8;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-left: 140px;
+    margin-top: 90px;
+    transition: all 1s;
+}
+
+.ro {
+    font-size: 30px;
+    padding-top: 20px;
+    padding-left: 150px;
+}
+
+.r:hover {
+    background-color: #D8BFD8;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin-left: 120px;
+    margin-top: 90px;
+}
+
+.ir {
+    width: 150px;
+    padding-top: 30px;
+    transition: all 1s;
+}
+
+.ir:hover {
+    width: 200px;
+    padding-top: 30px;
+}
+
+
+.mal {
+    background-color: #EEE8AA;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-left: 140px;
+    margin-top: 90px;
+    transition: all 1s;
+}
+
+.mall {
+    font-size: 30px;
+    padding-top: 20px;
+    padding-left: 170px;
+}
+
+.mal:hover {
+    background-color: #EEE8AA;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin-left: 120px;
+    margin-top: 90px;
+}
+
+.ia {
+    width: 150px;
+    padding-top: 20px;
+    transition: all 1s;
+}
+
+.ia:hover {
+    width: 200px;
+    padding-top: 20px;
+}
+
+.dd1 {
+    width: 350px;
+    height: 450px;
+    margin-left: 50px;
+    border: solid 1px;
+    transition: all 0.5s;
+    position: relative;
+    display: inline-block;
+    margin-top: 40px;
+}
+
+.dd1:hover {
+    width: 350px;
+    height: 450px;
+    margin-left: 50px;
+    box-shadow: 3px 3px 3px #888;
+    border: solid 1px;
+    position: relative;
+    display: inline-block;
+}
+
+.ep {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 75px;
+    top: 40px;
+}
+
+.dd2 {
+    width: 350px;
+    height: 450px;
+    margin-left: 300px;
+    border: solid 1px;
+    transition: all 0.5s;
+    position: relative;
+    display: inline-block;
+}
+
+.dd2:hover {
+    width: 350px;
+    height: 450px;
+    margin-left: 300px;
+    box-shadow: 3px 3px 3px #888;
+    border: solid 1px;
+    position: relative;
+}
+
+.ep {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 75px;
+    top: 40px;
+}
+
+.dd3 {
+    width: 350px;
+    height: 450px;
+    margin-left: 300px;
+    border: solid 1px;
+    transition: all 0.5s;
+    position: relative;
+    display: inline-block;
+}
+
+.dd3:hover {
+    width: 350px;
+    height: 450px;
+    margin-left: 300px;
+    box-shadow: 3px 3px 3px #888;
+    border: solid 1px;
+    position: relative;
+}
+
+.ep {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 75px;
+    top: 40px;
+}
+
+.dd4 {
+    width: 350px;
+    height: 450px;
+    margin-left: 50px;
+    margin-top: 30px;
+    border: solid 1px;
+    transition: all 0.5s;
+    position: relative;
+    display: inline-block;
+}
+
+.dd4:hover {
+    width: 350px;
+    height: 450px;
+    margin-left: 50px;
+    box-shadow: 3px 3px 3px #888;
+    border: solid 1px;
+    position: relative;
+}
+
+.ep {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 75px;
+    top: 40px;
+}
+
+.dd5 {
+    width: 350px;
+    height: 450px;
+    margin-left: 300px;
+    border: solid 1px;
+    transition: all 0.5s;
+    position: relative;
+    display: inline-block;
+}
+
+.dd5:hover {
+    width: 350px;
+    height: 450px;
+    margin-left: 300px;
+    box-shadow: 3px 3px 3px #888;
+    border: solid 1px;
+    position: relative;
+}
+
+.ep {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 75px;
+    top: 40px;
+}
+
+.dd6 {
+    width: 350px;
+    height: 450px;
+    margin-left: 300px;
+    border: solid 1px;
+    transition: all 0.5s;
+    position: relative;
+    display: inline-block;
+}
+
+.dd6:hover {
+    width: 350px;
+    height: 450px;
+    margin-left: 300px;
+    box-shadow: 3px 3px 3px #888;
+    border: solid 1px;
+    position: relative;
+}
+
+.ep {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 75px;
+    top: 40px;
+}
+
+.PR {
+    width: 100%;
+    height: 900px;
+    background-color: white;
+}
+
+.bb {
+    width: 50%;
+    height: 900px;
+    background-image: url(fotos/buba.png);
+}
